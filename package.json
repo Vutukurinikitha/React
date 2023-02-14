@@ -1,0 +1,35 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Creating bathing Products",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vutukuri Nikitha",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 google chrome versions "
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vutukurinikitha/React.git"
+  },
+  "keywords": [
+    "React",
+    "with",
+    "JS"
+  ],
+  "bugs": {
+    "url": "https://github.com/Vutukurinikitha/React/issues"
+  },
+  "homepage": "https://github.com/Vutukurinikitha/React#readme"
+}
