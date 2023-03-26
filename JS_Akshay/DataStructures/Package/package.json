@@ -1,0 +1,25 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vutukurinikitha/MagicalHair-Skin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vutukurinikitha/MagicalHair-Skin/issues"
+  },
+  "homepage": "https://github.com/Vutukurinikitha/MagicalHair-Skin#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21"
+  }
+}
